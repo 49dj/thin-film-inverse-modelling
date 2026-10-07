@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Cite this repository and the exact commit; acknowledge the collaborative modelling context."
+title: "Thin-film inverse modelling: SiC and Si optical models"
+type: software
+authors:
+  - family-names: Hu
+    given-names: Yizhe
+repository-code: "https://github.com/49dj/thin-film-inverse-modelling"
+version: 0.1.0
